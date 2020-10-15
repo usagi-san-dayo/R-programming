@@ -1,0 +1,4 @@
+"levelA","levelB","ci.low","ci.up","pValue"
+"setosa","versicolor",-0.818855277417476,-0.497144722582527,3.1e-14
+"setosa","virginica",-0.614855277417475,-0.293144722582527,1.36e-09
+"versicolor","virginica",0.0431447225825264,0.364855277417475,0.00878
